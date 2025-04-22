@@ -14,18 +14,12 @@ Our analysis aims to answer the following key questions:
 -	Average Runtime Trends: How does movie length vary over the years?
 -	Revenue by Genre: Which genres tend to bring in the most revenue?
 -	Language Frequency: How often do different original languages appear in the dataset?
-## Dataset Features
-The dataset includes the following details for each movie:
--	Movie ID: Unique identifier
--	Title: Movie name
--	Original Language: Language in which the movie was originally produced
--	Genre: Type or category (e.g., Action, Comedy, Drama)
--	Popularity: Metric reflecting user engagement or interest
--	Release Date: When the movie was released
--	Rating: Average user or critic rating
--	Vote Count: Number of people who rated the movie
--	Runtime: Movie duration in minutes
--	Revenue: Earnings from box office and other sources
+## Process
+- Imported the movie dataset into Excel and cleaned it by removing duplicates, filling missing values, and formatting columns like dates and genres.
+- Created additional columns in Excel to make the data easier to analyze in Power BI.
+- Loaded the cleaned and prepared Excel file into Power BI for visualization.
+- Built different charts in Power BI—such as bar charts, line graphs, and Block charts—to explore trends in popularity, ratings, revenue, and more.
+- Organized visuals into a clean, interactive dashboard layout, added filters for easy navigation, and published the final report.
 ## Dashboard 
 ![Screenshot (9)](https://github.com/CoX2682/Movie-Data-Analysis-Dashboard/blob/main/Screenshot%20(9).png)
 ## Key Insights & Observations
