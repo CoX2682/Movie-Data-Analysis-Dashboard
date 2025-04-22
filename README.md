@@ -26,16 +26,8 @@ The dataset includes the following details for each movie:
 -	Vote Count: Number of people who rated the movie
 -	Runtime: Movie duration in minutes
 -	Revenue: Earnings from box office and other sources
-## Dashboard Components
-The dashboard is divided into key sections, each offering a unique perspective:
--	Genre, Language, and Release Date Analysis: Visual breakdown of movies by genre, language, and year of release
--	Top-Rated Movies: Highlighting top movies based on ratings and vote count
--	Popularity Trends: A line chart showing how movie popularity has evolved over time
--	Revenue Insights: Analysis of the highest-grossing films
--	Ratings by Language and Genre: Visual comparison of average ratings across different languages and genres
--	Runtime Trends: Tracking how the average runtime has changed over the years
--	Revenue by Genre: Breakdown of revenue performance across various genres
--	Language Frequency: Comparison of movie counts based on original language
+## Dashboard 
+![Screenshot (9)](https://github.com/CoX2682/Movie-Data-Analysis-Dashboard/blob/main/Screenshot%20(9).png)
 ## Key Insights & Observations
 -	Most popular genres and languages over time
 -	High-performing movies in terms of ratings and revenue
