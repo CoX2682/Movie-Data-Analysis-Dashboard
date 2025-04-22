@@ -22,6 +22,7 @@ Our analysis aims to answer the following key questions:
 - Organized visuals into a clean, interactive dashboard layout, added filters for easy navigation, and published the final report.
 ## Dashboard 
 ![Screenshot (9)](https://github.com/CoX2682/Movie-Data-Analysis-Dashboard/blob/main/Screenshot%20(9).png)
+- <a href="https://github.com/CoX2682/Movie-Data-Analysis-Dashboard/blob/main/Dashboard.pbix">Full Dashboard</a>
 ## Key Insights & Observations
 -	Most popular genres and languages over time
 -	High-performing movies in terms of ratings and revenue
